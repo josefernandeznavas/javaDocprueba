@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Users/jfernandezn.ext/OneDrive/Documentos/NetBeansProjects/mavenproject1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jfernandezn.ext/OneDrive/Documentos/NetBeansProjects/mavenproject1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject1 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/jfernandezn.ext/OneDrive/Documentos/NetBeansProjects/mavenproject1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mavenproject1 1.0-SNAPSHOT API'
